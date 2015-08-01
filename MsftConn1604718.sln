@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MsftConn1604718", "MsftConn1604718\MsftConn1604718.csproj", "{ECABF51A-0CF3-4820-AD25-BF379C190CE8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "root", "root", "{DB5720F0-21BB-48B5-BBBD-99DA5413B305}"
+	ProjectSection(SolutionItems) = preProject
+		LICENSE = LICENSE
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECABF51A-0CF3-4820-AD25-BF379C190CE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECABF51A-0CF3-4820-AD25-BF379C190CE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECABF51A-0CF3-4820-AD25-BF379C190CE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECABF51A-0CF3-4820-AD25-BF379C190CE8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
